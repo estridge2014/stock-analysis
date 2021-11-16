@@ -1,5 +1,7 @@
 # stock-analysis
 
+Note: I had originally chosen to have this be one of the two modules I skipped, but have decided that I would actually like this to count as one of my grades. 
+
 ## Overview: 
 
 In this challenge, I will expand the dataset to include data for the entire stock market over the last few years. The code I wrote for the original dataset will have difficulty looping through such a large dataset, so I will refactor it in order to make my VBA script run faster and more efficiently. 
